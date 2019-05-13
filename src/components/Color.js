@@ -1,7 +1,7 @@
 import React from 'react';
 
 const hexFromColor = color => {
-  return `${color.toString(16).padStarts(2, 0)}.toUpperCase)`;
+  return `${color.toString(16).padStart(2, 0)}.toUpperCase)`;
 };
 
 const hexFromRgb = (rgb) => {
