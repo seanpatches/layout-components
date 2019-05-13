@@ -2,6 +2,9 @@
 
 exports[`Header renders a Header 1`] = `
 <header>
+  <img
+    src="../src/assets/alchemy.png"
+  />
   <h1>
     My Dog
   </h1>
