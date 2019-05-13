@@ -1,7 +1,7 @@
 import React from 'react';
-import Color from './Color';
+import App from './components/App.js';
 
-render() {
+render( 
   <App />,
   document.getElementById('root')
-}
+);
